@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>War Dragons Breeding Guide</title>
-<link rel="stylesheet" type="text/css" href="dragonstyle.css">
+<link rel="stylesheet" type="text/css" href="DragonStyle.css">
 </head>
 <body>
 <center>
